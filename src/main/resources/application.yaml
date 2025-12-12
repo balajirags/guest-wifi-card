@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: guest_wifi_cards
