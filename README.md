@@ -1,6 +1,7 @@
 # guest-wifi-card
 
-Small project repository for the Guest WiFi Card project.
+
+Small project repository for the Guest WiFi Card project. This project is used to create Guest wifi QR code.
 
 This repository was initialized locally. Create a remote on GitHub and push the initial commit to publish it.
 
